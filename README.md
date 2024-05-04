@@ -62,13 +62,17 @@
 
 </td></tr></table>
 
-<br/>  
+<br/>    
+<br/>
 
 ## Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/abdelkader montaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkader montaser" height="30" width="40" /></a>
 </p>
+
+<br/>  
+<br/>
 
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd-elqader&show_icons=true&locale=en&layout=compact" alt="abd-elqader" /></p>
