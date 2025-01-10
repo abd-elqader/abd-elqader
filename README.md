@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-elqader&label=Profile%20views&color=0e75b6&style=flat" alt="abd-elqader" /> </p>
 
-- 🔭 I’m currently working on [blog](https://app.elnakoury.com/)
+- 🔭 I’m currently working on [Portfolio](https://elnakoury.store/)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **php and js**
+- 💬 Ask me about **PHP and JavaScript**
 
 - 📫 How to reach me **abdelqader.montaser@gmail.com**
 
